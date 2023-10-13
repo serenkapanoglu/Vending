@@ -1,0 +1,37 @@
+
+.fresh-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .background-image {
+    background-image: url('https://media.giphy.com/media/PU9ae3tuWoJCU/giphy.gif'); /* Replace 'your-image.jpg' with your image path */
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5; /* Adjust the opacity as needed */
+    z-index: -1;
+  }
+  
+  h1 {
+    padding: 30px;
+    background-color: gray;
+    text-align: center;
+    font-size: 24px; /* Adjust the font size as needed */
+    color: white; /* Text color */
+  }
+  
+  Link {
+    color: white; /* Link color */
+  }
+  
+ 
+  

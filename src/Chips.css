@@ -1,0 +1,36 @@
+/* Chips.css */
+.chips-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: gray;
+  }
+  
+  .center2 {
+    margin-top: 20px; /* Adjust the margin as needed */
+  }
+  
+  h3 {
+    font-size: 18px; /* Adjust the font size as needed */
+  }
+ 
+  button {
+    font-weight: 600;
+    font-size: 15px;
+    color:#dddd;
+    border: 3px;
+    height: 40px;
+    background-color: rgb(186, 55, 55);
+    padding: 10px 20px; /* Adjust button padding as needed */
+  }
+  button:hover{
+    opacity: 0.7;
+    color: aliceblue;
+  }
+  
+  Link {
+    color: #007BFF; /* Link color */
+  }
+  
